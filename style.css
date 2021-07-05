@@ -2,8 +2,35 @@ body{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
-.salmon-color-text{
-    color: #FBA24F;
+.header-banner{
+    background-image: url(images/food/Project\ Cover4.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-top: 10%;
+    text-align: center;
+    color: white;
+    filter: drop-shadow(0px 2px 2px #575757);
+}
+.header-banner h1{
+    color: white;
+    font-size: 70px;
+}
+.header-banner h3{
+    font-size: 25px;
+    padding: 2%;
+    margin-bottom: 30px;
+    margin-top: -50px;
+}
+.header-banner img{
+    width: 50%;
+    height: 50%;
+}
+span{
+    color: #fb8846;
+}
+section h1{
+    color: #575757;
+    filter: drop-shadow(0px 2px 2px #575757);
 }
 .gray-color-text{
     color: #575757;
@@ -47,11 +74,15 @@ h3{
     background-position: left;
     background-size: cover;
 }
+.top-banner img{
+    width: 90%;
+}
 .about-banner{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
+    height: 940px;
 }
 .about-banner img{
     width: 70%;
@@ -64,7 +95,7 @@ h3{
 .recipie-display-flex{
     display: flex;
 }
-.recipie-width{
+.recipie-width:{
     width: 100%;
 }
 .recipie-width img{
