@@ -83,6 +83,7 @@ h2{
     margin-left: 20px;
     margin-right: 20px;
     box-shadow: 10px 20px 30px gray;
+    border-radius: 20px;
 }
 #recipie-image-three{
     width: 20%;
@@ -90,5 +91,6 @@ h2{
     margin-left: 20px;
     margin-right: 20px;
     box-shadow: 10px 20px 30px gray;
+    border-radius: 20px;
     
 }
