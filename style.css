@@ -3,13 +3,14 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 .salmon-color-text{
-    color: #FBA24F
+    color: #FBA24F;
 }
 .gray-color-text{
     color: #575757;
-    margin-bottom: 70px;
+    margin-top: 10px;
+    margin-bottom: 100px;
     height: 100px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     line-height: 30px;
 }
 h1{
@@ -22,7 +23,7 @@ h3{
     font-size: 30px;
 }
 .link-button{
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(to right, orange, tomato);
     padding: 20px 30px;
     color:whitesmoke;
     font-weight: 900;
@@ -34,7 +35,7 @@ h3{
     display: flex;
 }
 .half-width{
-    width: 50%;
+    width: 100%;
     padding: 5%;
 }
 .half-width img{
@@ -58,6 +59,7 @@ h3{
 }
 .my-recipies{
     text-align: center;
+    margin-top: 120px;
 }
 .recipie-display-flex{
     display: flex;
