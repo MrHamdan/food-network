@@ -32,6 +32,9 @@ section h1{
     color: #575757;
     filter: drop-shadow(0px 2px 2px #575757);
 }
+section h3{
+    filter: drop-shadow(0px 2px 2px #575757);
+}
 .gray-color-text{
     color: #575757;
     margin-top: 80px;
@@ -42,10 +45,6 @@ section h1{
 h1{
     font-size: 50px;
     line-height: 70px;
-}
-h2{
-    font-size: 40px;
-    padding-top: 80px;
 }
 h3{
     font-size: 30px;
@@ -83,7 +82,7 @@ h3{
     filter: drop-shadow(0px 2px 2px #575757);
 }
 .about-banner{
-    background-image: url(images/shapes/7.png);
+    background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
@@ -155,4 +154,15 @@ h3{
     color: #575757;
     font-size: 30px;
     margin-top: -30px;
+}
+.footer-design{
+    background-color: black;
+    text-align: center;
+    margin-top: 200px;
+    padding: 5%;
+    filter: drop-shadow(0px 2px 2px #575757);
+}
+.footer-text-color{
+    font-size: 20px;
+    color: darkgray
 }
