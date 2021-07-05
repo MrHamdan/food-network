@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.salmon-color-text{
+    color: #FBA24F
+}
+.gray-color-text{
+    color: #575757;
+    margin-bottom: 70px;
+    height: 100px;
+    letter-spacing: 3px;
+    line-height: 30px;
+}
+h1{
+    font-size: 65px;
+}
+h2{
+    font-size: 40px;
+}
+.link-button{
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 30px;
+    color:whitesmoke;
+    font-weight: 900;
+    text-decoration: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px grey;
+}
+.section-display-flex{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+.about-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+.about-banner img{
+    width: 70%;
+    margin-left: 200px;
+}
