@@ -95,34 +95,34 @@ h3{
 .recipie-display-flex{
     display: flex;
 }
-.recipie-width:{
+.recipie-width{
     width: 100%;
 }
 .recipie-width img{
     width: 100%;
 }
 #recipie-image-one{
-    width: 100%;
-    padding: 3%;
-    margin-left: 20px;
+    width: 33%;
+    padding: 2%;
+    margin-left: 200px;
     margin-right: 20px;
-    box-shadow: 10px 20px 30px gray;
+    box-shadow: 10px 10px 70px gray;
     border-radius: 20px;
     
 }
 #recipie-image-two{
-    width: 100%;
-    padding: 3%;
-    margin-left: 20px;
-    margin-right: 20px;
-    box-shadow: 10px 20px 30px gray;
+    width: 33%;
+    padding: 2%;
+    margin-left: 100px;
+    margin-right: 10px;
+    box-shadow: 10px 10px 70px gray;
     border-radius: 20px;
 }
 #recipie-image-three{
-    width: 100%;
-    padding: 3%;
-    margin-left: 20px;
-    margin-right: 20px;
-    box-shadow: 10px 20px 30px gray;
-    border-radius: 20px;  
+    width: 33%;
+    padding: 2%;
+    margin-left: 100px;
+    margin-right: 200px;
+    box-shadow: 10px 10px 70px gray;
+    border-radius: 20px;
 }
