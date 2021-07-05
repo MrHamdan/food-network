@@ -103,26 +103,26 @@ h3{
 }
 #recipie-image-one{
     width: 33%;
-    padding: 2%;
+    padding: 30px;
     margin-left: 200px;
     margin-right: 20px;
-    box-shadow: 10px 10px 70px gray;
+    box-shadow: 10px 10px 30px gray;
     border-radius: 20px;
     
 }
 #recipie-image-two{
     width: 33%;
-    padding: 2%;
+    padding: 30px;
     margin-left: 100px;
     margin-right: 10px;
-    box-shadow: 10px 10px 70px gray;
+    box-shadow: 10px 10px 30px gray;
     border-radius: 20px;
 }
 #recipie-image-three{
     width: 33%;
-    padding: 2%;
+    padding: 30px;
     margin-left: 100px;
     margin-right: 200px;
-    box-shadow: 10px 10px 70px gray;
+    box-shadow: 10px 10px 30px gray;
     border-radius: 20px;
 }
