@@ -53,3 +53,42 @@ h2{
     width: 70%;
     margin-left: 200px;
 }
+.my-recipies{
+    text-align: center;
+}
+.recipie-display-flex{
+    display: flex;
+}
+.recipie-width{
+    width: 100%;
+    padding: 3%;
+    margin-left: 80px;
+    margin-right: 80px;     
+}
+.recipie-width img{
+    width: 100%;
+}
+#recipie-image-one{
+    width: 20%;
+    padding: 3%;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 10px 20px 30px gray;
+    border-radius: 20px;
+    
+}
+#recipie-image-two{
+    width: 20%;
+    padding: 3%;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 10px 20px 30px gray;
+}
+#recipie-image-three{
+    width: 20%;
+    padding: 3%;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 10px 20px 30px gray;
+    
+}
