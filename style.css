@@ -106,6 +106,7 @@ h3{
 }
 .recipie-width{
     width: 100%;
+    padding-top: 120px;
 }
 .recipie-width img{
     width: 100%;
@@ -189,4 +190,11 @@ h3{
 .social-title{
     color: #575757;
     filter: drop-shadow(0px 1px 1px #575757);
+}
+.my-recipes-text{
+    color: #575757;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px; 
 }
