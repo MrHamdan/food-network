@@ -152,7 +152,7 @@ h3{
     display: flex;  
     box-shadow: 10px 10px 30px gray;
     margin-top: 200px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
     margin-left: 200px;
     margin-right: 200px;
     border-radius: 20px;
@@ -202,4 +202,19 @@ h3{
     margin-left: 200px;
     margin-right: 200px;
     margin-top: 10px; 
+}
+.flexible-display-form{
+    width: 100%;
+    padding: 5%;  
+    box-shadow: 10px 10px 30px gray;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 20px;
+}
+.form-text{
+    color: #575757;
+    font-size: 20px;
+    margin-bottom: 20px;
 }
