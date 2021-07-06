@@ -229,7 +229,7 @@ h3{
 }
 #form-display-flex-one{
     display: flex;
-    width: 50%;
+    width: 100%;
     padding: 100px 40px;  
     box-shadow: 10px 10px 30px gray;
     margin-top: 200px;
@@ -240,7 +240,7 @@ h3{
 }
 #form-display-flex-two{
     display: flex;
-    width: 50%;
+    width: 100%;
     padding: 100px 40px;  
     box-shadow: 10px 10px 30px gray;
     margin-top: 200px;
